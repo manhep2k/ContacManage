@@ -1,0 +1,532 @@
+﻿++Solution 'WebQLHĐ' ‎(4 of 4 projects)
+++QLHĐSolotion.ViewModel
+i:{00000000-0000-0000-0000-000000000000}:QLHĐSolotion.ViewModel
+i:{76a1ceee-0d84-43b2-bc9f-5b2da99b6e9a}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.viewmodel\qlhđsolotion.viewmodel.csproj
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.viewmodel\qlhđsolotion.viewmodel.csproj
+++Dependencies
+i:{dc4dadee-eac1-4df9-96b8-922947fb6792}:>745
+i:{55a97128-f650-4561-baca-2e4d34586b03}:>376
+i:{76a1ceee-0d84-43b2-bc9f-5b2da99b6e9a}:>375
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:>572
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:>1081
+++Doitac
+i:{dc4dadee-eac1-4df9-96b8-922947fb6792}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.viewmodel\doitac\
+i:{76a1ceee-0d84-43b2-bc9f-5b2da99b6e9a}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.application\doitac\
+++Common
+i:{dc4dadee-eac1-4df9-96b8-922947fb6792}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.viewmodel\doitac\common\
+++PagingRequestBase.cs
+i:{dc4dadee-eac1-4df9-96b8-922947fb6792}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.viewmodel\doitac\common\pagingrequestbase.cs
+++Dtos
+i:{dc4dadee-eac1-4df9-96b8-922947fb6792}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.viewmodel\doitac\dtos\
+++CtrDoiTacCreateRequest.cs
+i:{dc4dadee-eac1-4df9-96b8-922947fb6792}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.viewmodel\doitac\dtos\ctrdoitaccreaterequest.cs
+++CtrDoiTacUpdateRequest.cs
+i:{dc4dadee-eac1-4df9-96b8-922947fb6792}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.viewmodel\doitac\dtos\ctrdoitacupdaterequest.cs
+++DoiTacViewModels.cs
+i:{dc4dadee-eac1-4df9-96b8-922947fb6792}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.viewmodel\doitac\dtos\doitacviewmodels.cs
+++GetManageProductPagingRequest.cs
+i:{dc4dadee-eac1-4df9-96b8-922947fb6792}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.viewmodel\doitac\dtos\getmanageproductpagingrequest.cs
+++GetPublicDoiTacPagingRequest.cs
+i:{dc4dadee-eac1-4df9-96b8-922947fb6792}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.viewmodel\doitac\dtos\getpublicdoitacpagingrequest.cs
+++IPublicDoiTacServicer.cs
+i:{76a1ceee-0d84-43b2-bc9f-5b2da99b6e9a}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.application\doitac\ipublicdoitacservicer.cs
+++Analyzers
+i:{dc4dadee-eac1-4df9-96b8-922947fb6792}:analyzers
+i:{55a97128-f650-4561-baca-2e4d34586b03}:analyzers
+i:{76a1ceee-0d84-43b2-bc9f-5b2da99b6e9a}:analyzers
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:analyzers
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:analyzers
+++Frameworks
+i:{dc4dadee-eac1-4df9-96b8-922947fb6792}:frameworks
+i:{55a97128-f650-4561-baca-2e4d34586b03}:frameworks
+i:{76a1ceee-0d84-43b2-bc9f-5b2da99b6e9a}:frameworks
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:frameworks
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:frameworks
+++Microsoft.CodeAnalysis.CSharp.NetAnalyzers
+i:{dc4dadee-eac1-4df9-96b8-922947fb6792}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{55a97128-f650-4561-baca-2e4d34586b03}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{76a1ceee-0d84-43b2-bc9f-5b2da99b6e9a}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.csharp.netanalyzers.dll
+++Microsoft.CodeAnalysis.NetAnalyzers
+i:{dc4dadee-eac1-4df9-96b8-922947fb6792}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{55a97128-f650-4561-baca-2e4d34586b03}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{76a1ceee-0d84-43b2-bc9f-5b2da99b6e9a}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk\analyzers\microsoft.codeanalysis.netanalyzers.dll
+++System.Text.Json.SourceGeneration
+i:{dc4dadee-eac1-4df9-96b8-922947fb6792}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{55a97128-f650-4561-baca-2e4d34586b03}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{76a1ceee-0d84-43b2-bc9f-5b2da99b6e9a}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\program files\dotnet\packs\microsoft.netcore.app.ref\6.0.2\analyzers\dotnet\cs\system.text.json.sourcegeneration.dll
+++Microsoft.NETCore.App
+i:{dc4dadee-eac1-4df9-96b8-922947fb6792}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.viewmodel\microsoft.netcore.app
+i:{55a97128-f650-4561-baca-2e4d34586b03}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.data\microsoft.netcore.app
+i:{76a1ceee-0d84-43b2-bc9f-5b2da99b6e9a}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.application\microsoft.netcore.app
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\microsoft.netcore.app
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\microsoft.netcore.app
+++QLHĐSolotion.Data
+i:{00000000-0000-0000-0000-000000000000}:QLHĐSolotion.Data
+i:{76a1ceee-0d84-43b2-bc9f-5b2da99b6e9a}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.data\qlhđsolotion.data.csproj
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.data\qlhđsolotion.data.csproj
+++EF
+i:{55a97128-f650-4561-baca-2e4d34586b03}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.data\ef\
+++DbContextFactory.cs
+i:{55a97128-f650-4561-baca-2e4d34586b03}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.data\ef\dbcontextfactory.cs
+++testDbontext.cs
+i:{55a97128-f650-4561-baca-2e4d34586b03}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.data\ef\testdbontext.cs
+++Entity
+i:{55a97128-f650-4561-baca-2e4d34586b03}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.data\entity\
+++Account.cs
+i:{55a97128-f650-4561-baca-2e4d34586b03}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.data\entity\account.cs
+++AppRole.cs
+i:{55a97128-f650-4561-baca-2e4d34586b03}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.data\entity\approle.cs
+++AppUser.cs
+i:{55a97128-f650-4561-baca-2e4d34586b03}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.data\entity\appuser.cs
+++Credential.cs
+i:{55a97128-f650-4561-baca-2e4d34586b03}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.data\entity\credential.cs
+++CtrCongNo.cs
+i:{55a97128-f650-4561-baca-2e4d34586b03}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.data\entity\ctrcongno.cs
+++CtrDoiTac.cs
+i:{55a97128-f650-4561-baca-2e4d34586b03}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.data\entity\ctrdoitac.cs
+++CtrHopDong.cs
+i:{55a97128-f650-4561-baca-2e4d34586b03}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.data\entity\ctrhopdong.cs
+++CtrKhachHang.cs
+i:{55a97128-f650-4561-baca-2e4d34586b03}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.data\entity\ctrkhachhang.cs
+++UserGroup.cs
+i:{55a97128-f650-4561-baca-2e4d34586b03}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.data\entity\usergroup.cs
+++Extensions
+i:{55a97128-f650-4561-baca-2e4d34586b03}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.data\extensions\
+++ModelBuilderExtensions.cs
+i:{55a97128-f650-4561-baca-2e4d34586b03}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.data\extensions\modelbuilderextensions.cs
+++Migrations
+i:{55a97128-f650-4561-baca-2e4d34586b03}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.data\migrations\
+++appsetting.json
+i:{55a97128-f650-4561-baca-2e4d34586b03}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.data\appsetting.json
+++Packages
+i:{55a97128-f650-4561-baca-2e4d34586b03}:packages
+i:{76a1ceee-0d84-43b2-bc9f-5b2da99b6e9a}:packages
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:packages
+i:{dc4dadee-eac1-4df9-96b8-922947fb6792}:packages
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:packages
+++20220222073001_databaseIdentity1.cs
+i:{55a97128-f650-4561-baca-2e4d34586b03}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.data\migrations\20220222073001_databaseidentity1.cs
+++testDbontextModelSnapshot.cs
+i:{55a97128-f650-4561-baca-2e4d34586b03}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.data\migrations\testdbontextmodelsnapshot.cs
+++Microsoft.EntityFrameworkCore.Analyzers
+i:{55a97128-f650-4561-baca-2e4d34586b03}:c:\users\admin\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{76a1ceee-0d84-43b2-bc9f-5b2da99b6e9a}:c:\users\admin\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\.nuget\packages\microsoft.entityframeworkcore.analyzers\6.0.2\analyzers\dotnet\cs\microsoft.entityframeworkcore.analyzers.dll
+++Microsoft.Extensions.Logging.Generators
+i:{55a97128-f650-4561-baca-2e4d34586b03}:c:\users\admin\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{76a1ceee-0d84-43b2-bc9f-5b2da99b6e9a}:c:\users\admin\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+i:{dc4dadee-eac1-4df9-96b8-922947fb6792}:c:\users\admin\.nuget\packages\microsoft.extensions.logging.abstractions\6.0.0\analyzers\dotnet\roslyn4.0\cs\microsoft.extensions.logging.generators.dll
+++EntityFramework (6.4.4)
+i:{55a97128-f650-4561-baca-2e4d34586b03}:>600
+i:{76a1ceee-0d84-43b2-bc9f-5b2da99b6e9a}:>610
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:>593
+++Microsoft.AspNetCore.Identity.EntityFrameworkCore (6.0.2)
+i:{55a97128-f650-4561-baca-2e4d34586b03}:>596
+++Microsoft.EntityFrameworkCore (6.0.2)
+i:{55a97128-f650-4561-baca-2e4d34586b03}:>592
+++Microsoft.EntityFrameworkCore.Design (6.0.2)
+i:{55a97128-f650-4561-baca-2e4d34586b03}:>595
+i:{76a1ceee-0d84-43b2-bc9f-5b2da99b6e9a}:>609
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:>591
+++Microsoft.EntityFrameworkCore.SqlServer (6.0.2)
+i:{55a97128-f650-4561-baca-2e4d34586b03}:>594
+++Microsoft.EntityFrameworkCore.Tools (6.0.2)
+i:{55a97128-f650-4561-baca-2e4d34586b03}:>599
+++Microsoft.Extensions.Configuration.FileExtensions (6.0.0)
+i:{55a97128-f650-4561-baca-2e4d34586b03}:>597
+++Microsoft.Extensions.Configuration.Json (6.0.0)
+i:{55a97128-f650-4561-baca-2e4d34586b03}:>598
+++20220222073001_databaseIdentity1.Designer.cs
+i:{55a97128-f650-4561-baca-2e4d34586b03}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.data\migrations\20220222073001_databaseidentity1.designer.cs
+++QLHĐSolotion.Application
+i:{00000000-0000-0000-0000-000000000000}:QLHĐSolotion.Application
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.application\qlhđsolotion.application.csproj
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.application\qlhđsolotion.application.csproj
+++DoiTacService.cs
+i:{76a1ceee-0d84-43b2-bc9f-5b2da99b6e9a}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.application\doitac\doitacservice.cs
+++IDoiTacService.cs
+i:{76a1ceee-0d84-43b2-bc9f-5b2da99b6e9a}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.application\doitac\idoitacservice.cs
+++Projects
+i:{76a1ceee-0d84-43b2-bc9f-5b2da99b6e9a}:projects
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:projects
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:projects
+++WebQLHĐ
+i:{00000000-0000-0000-0000-000000000000}:WebQLHĐ
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\webqlhđ\webqlhđ.csproj
+++Connected Services 
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:>573
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:>1082
+++SQL Server Database
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:>645
+++Properties
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\properties\
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\properties\
+++launchSettings.json
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\properties\launchsettings.json
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\properties\launchsettings.json
+++wwwroot
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\
+++css
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\css\
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\css\
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\css\
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\css\
+++js
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\js\
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\js\
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\js\
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\js\
+++lib
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\
+++favicon.ico
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\favicon.ico
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\favicon.ico
+++Controllers
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\controllers\
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\controllers\
+++HomeController.cs
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\controllers\homecontroller.cs
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\controllers\homecontroller.cs
+++Models
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\models\
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\models\
+++ErrorViewModel.cs
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\models\errorviewmodel.cs
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\models\errorviewmodel.cs
+++Views
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\views\
+++Home
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\views\home\
+++Index.cshtml
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\views\home\index.cshtml
+++Privacy.cshtml
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\views\home\privacy.cshtml
+++Shared
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\views\shared\
+++_Layout.cshtml
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\views\shared\_layout.cshtml
+++_ValidationScriptsPartial.cshtml
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\views\shared\_validationscriptspartial.cshtml
+++Error.cshtml
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\views\shared\error.cshtml
+++_ViewImports.cshtml
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\views\_viewimports.cshtml
+++_ViewStart.cshtml
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\views\_viewstart.cshtml
+++appsettings.json
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\appsettings.json
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\appsettings.json
+++appsettings.Development.json
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\appsettings.development.json
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\appsettings.development.json
+++Program.cs
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\program.cs
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\program.cs
+++SQL Server Database dependency is detected
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:>646
+++Microsoft.AspNetCore.Analyzers
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.analyzers.dll
+++Microsoft.AspNetCore.App.Analyzers
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.analyzers.dll
+++Microsoft.AspNetCore.App.CodeFixes
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\program files\dotnet\packs\microsoft.aspnetcore.app.ref\6.0.2\analyzers\dotnet\cs\microsoft.aspnetcore.app.codefixes.dll
+++Microsoft.AspNetCore.Components.Analyzers
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.components.analyzers.dll
+++Microsoft.AspNetCore.Mvc.Analyzers
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.web\analyzers\cs\microsoft.aspnetcore.mvc.analyzers.dll
+++Microsoft.AspNetCore.Razor.SourceGenerator.Tooling.Internal
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.aspnetcore.razor.sourcegenerator.tooling.internal.dll
+++Microsoft.NET.Sdk.Razor.SourceGenerators
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\program files\dotnet\sdk\6.0.200\sdks\microsoft.net.sdk.razor\source-generators\microsoft.net.sdk.razor.sourcegenerators.dll
+++Microsoft.AspNetCore.App
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\microsoft.aspnetcore.app
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\microsoft.aspnetcore.app
+++site.css
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\css\site.css
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\css\site.css
+++site.js
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\js\site.js
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\js\site.js
+++bootstrap
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\
+++jquery
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\jquery\
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\jquery\
+++jquery-validation
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\jquery-validation\
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\jquery-validation\
+++jquery-validation-unobtrusive
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\jquery-validation-unobtrusive\
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\jquery-validation-unobtrusive\
+++_Layout.cshtml.css
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\views\shared\_layout.cshtml.css
+++dist
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\jquery\dist\
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\jquery-validation\dist\
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\jquery\dist\
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\jquery-validation\dist\
+++LICENSE
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\license
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\license
+++LICENSE.txt
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\jquery\license.txt
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\jquery\license.txt
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\jquery-validation-unobtrusive\license.txt
+++LICENSE.md
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\jquery-validation\license.md
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\jquery-validation\license.md
+++jquery.validate.unobtrusive.js
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.js
+++jquery.js
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\jquery\dist\jquery.js
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\jquery\dist\jquery.js
+++additional-methods.js
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\jquery-validation\dist\additional-methods.js
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\jquery-validation\dist\additional-methods.js
+++jquery.validate.js
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\jquery-validation\dist\jquery.validate.js
+++jquery.validate.unobtrusive.min.js
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\jquery-validation-unobtrusive\jquery.validate.unobtrusive.min.js
+++bootstrap.css
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\css\bootstrap.css
+++bootstrap-grid.css
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css
+++bootstrap-reboot.css
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css
+++bootstrap-utilities.css
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css
+++bootstrap.js
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\js\bootstrap.js
+++jquery.min.js
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\jquery\dist\jquery.min.js
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\jquery\dist\jquery.min.js
+++additional-methods.min.js
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\jquery-validation\dist\additional-methods.min.js
+++jquery.validate.min.js
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\jquery-validation\dist\jquery.validate.min.js
+++bootstrap.css.map
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\css\bootstrap.css.map
+++bootstrap.min.css
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css
+++bootstrap.rtl.css
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css
+++bootstrap-grid.css.map
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.css.map
+++bootstrap-grid.min.css
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css
+++bootstrap-grid.rtl.css
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css
+++bootstrap-reboot.css.map
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.css.map
+++bootstrap-reboot.min.css
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css
+++bootstrap-reboot.rtl.css
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css
+++bootstrap-utilities.css.map
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.css.map
+++bootstrap-utilities.min.css
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css
+++bootstrap-utilities.rtl.css
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css
+++bootstrap.bundle.js
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js
+++bootstrap.esm.js
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js
+++bootstrap.js.map
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\js\bootstrap.js.map
+++bootstrap.min.js
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js
+++jquery.min.map
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\jquery\dist\jquery.min.map
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\jquery\dist\jquery.min.map
+++bootstrap.min.css.map
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\css\bootstrap.min.css.map
+++bootstrap.rtl.css.map
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.css.map
+++bootstrap.rtl.min.css
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css
+++bootstrap-grid.min.css.map
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.min.css.map
+++bootstrap-grid.rtl.css.map
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.css.map
+++bootstrap-grid.rtl.min.css
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css
+++bootstrap-reboot.min.css.map
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.min.css.map
+++bootstrap-reboot.rtl.css.map
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.css.map
+++bootstrap-reboot.rtl.min.css
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css
+++bootstrap-utilities.min.css.map
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.min.css.map
+++bootstrap-utilities.rtl.css.map
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.css.map
+++bootstrap-utilities.rtl.min.css
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css
+++bootstrap.bundle.js.map
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.js.map
+++bootstrap.bundle.min.js
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js
+++bootstrap.esm.js.map
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.js.map
+++bootstrap.esm.min.js
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js
+++bootstrap.min.js.map
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\js\bootstrap.min.js.map
+++bootstrap.rtl.min.css.map
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\css\bootstrap.rtl.min.css.map
+++bootstrap-grid.rtl.min.css.map
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\css\bootstrap-grid.rtl.min.css.map
+++bootstrap-reboot.rtl.min.css.map
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\css\bootstrap-reboot.rtl.min.css.map
+++bootstrap-utilities.rtl.min.css.map
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\css\bootstrap-utilities.rtl.min.css.map
+++bootstrap.bundle.min.js.map
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\js\bootstrap.bundle.min.js.map
+++bootstrap.esm.min.js.map
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:c:\users\admin\desktop\webqlhđ\webqlhđ\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\wwwroot\lib\bootstrap\dist\js\bootstrap.esm.min.js.map
+++PagedResult.cs
+i:{dc4dadee-eac1-4df9-96b8-922947fb6792}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.viewmodel\doitac\common\pagedresult.cs
+++System.Linq.Dynamic.Core (1.2.17)
+i:{76a1ceee-0d84-43b2-bc9f-5b2da99b6e9a}:>881
+++PublicDoiTac.cs
+++PublicDoiTacService.cs
+i:{76a1ceee-0d84-43b2-bc9f-5b2da99b6e9a}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.application\doitac\publicdoitacservice.cs
+++Microsoft.CrmSdk.Workflow (9.0.2.42)
+++EShopException.cs
+i:{55a97128-f650-4561-baca-2e4d34586b03}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.data\extensions\eshopexception.cs
+++Solution 'WebQLHĐ' ‎(5 of 5 projects)
+i:{00000000-0000-0000-0000-000000000000}:WebQLHĐ.sln
+++QLHDSolotion.BackendAPI
+i:{00000000-0000-0000-0000-000000000000}:QLHDSolotion.BackendAPI
+++No service dependencies discovered
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:>1083
+++C:\Program Files\dotnet\sdk\6.0.200\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.200\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Components.Analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.200\Sdks\Microsoft.NET.Sdk.Web\analyzers\cs\Microsoft.AspNetCore.Mvc.Analyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.200\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.CSharp.NetAnalyzers.dll
+++C:\Program Files\dotnet\sdk\6.0.200\Sdks\Microsoft.NET.Sdk\targets\..\analyzers\Microsoft.CodeAnalysis.NetAnalyzers.dll
+++DoiTacController.cs
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\controllers\doitaccontroller.cs
+++Startup.cs
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:c:\users\admin\desktop\webqlhđ\qlhdsolotion.backendapi\startup.cs
+++SystemConstants.cs
+i:{55a97128-f650-4561-baca-2e4d34586b03}:c:\users\admin\desktop\webqlhđ\qlhđsolotion.data\extensions\systemconstants.cs
+++Microsoft.AspNetCore.Hosting (2.2.7)
+i:{dc4dadee-eac1-4df9-96b8-922947fb6792}:>1167
+i:{55a97128-f650-4561-baca-2e4d34586b03}:>1168
+i:{76a1ceee-0d84-43b2-bc9f-5b2da99b6e9a}:>1169
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:>1170
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:>1172
+++Microsoft.IdentityModel.Tokens (6.16.0)
+i:{dc4dadee-eac1-4df9-96b8-922947fb6792}:>1173
+i:{55a97128-f650-4561-baca-2e4d34586b03}:>1174
+i:{76a1ceee-0d84-43b2-bc9f-5b2da99b6e9a}:>1175
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:>1176
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:>1177
+++Microsoft.OpenApi (1.2.3)
+i:{dc4dadee-eac1-4df9-96b8-922947fb6792}:>1178
+i:{55a97128-f650-4561-baca-2e4d34586b03}:>1179
+i:{76a1ceee-0d84-43b2-bc9f-5b2da99b6e9a}:>1180
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:>1181
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:>1182
+++Microsoft.Extensions.Hosting (6.0.1)
+i:{dc4dadee-eac1-4df9-96b8-922947fb6792}:>1183
+i:{55a97128-f650-4561-baca-2e4d34586b03}:>1184
+i:{76a1ceee-0d84-43b2-bc9f-5b2da99b6e9a}:>1185
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:>1186
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:>1188
+++Microsoft.AspNetCore.Identity (2.2.0)
+i:{dc4dadee-eac1-4df9-96b8-922947fb6792}:>1189
+i:{55a97128-f650-4561-baca-2e4d34586b03}:>1190
+i:{76a1ceee-0d84-43b2-bc9f-5b2da99b6e9a}:>1191
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:>1192
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:>1193
+++Microsoft.Extensions.DependencyInjection (6.0.0)
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:>1630
+++Microsoft.Extensions.Configuration (6.0.0)
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:>1631
+++Microsoft.AspNetCore.HttpsPolicy (2.2.0)
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:>1632
+++Solution 'WebQLHĐ' ‎(6 of 6 projects)
+++QLHDSlotion.BackEndAPI
+++WeatherForecast.cs
+++WeatherForecastController.cs
+++Swashbuckle.AspNetCore (6.2.3)
+++Microsoft.Xrm.Sdk.Workflow.2011 (5.0.18)
+i:{dc4dadee-eac1-4df9-96b8-922947fb6792}:>1724
+i:{55a97128-f650-4561-baca-2e4d34586b03}:>1725
+i:{76a1ceee-0d84-43b2-bc9f-5b2da99b6e9a}:>1726
+i:{921fbf92-5e60-40f6-bdd3-6bc6f2c02e55}:>1727
+i:{10fb32e5-2fa6-456d-b2bc-2da2fdc9e073}:>1728

@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\WebQLHĐ\QLHĐSolotion.Data\bin\Debug\net6.0\QLHĐSolotion.Data.deps.json
+C:\Users\Admin\Desktop\WebQLHĐ\QLHĐSolotion.Data\bin\Debug\net6.0\QLHĐSolotion.Data.runtimeconfig.json
+C:\Users\Admin\Desktop\WebQLHĐ\QLHĐSolotion.Data\bin\Debug\net6.0\QLHĐSolotion.Data.dll
+C:\Users\Admin\Desktop\WebQLHĐ\QLHĐSolotion.Data\bin\Debug\net6.0\QLHĐSolotion.Data.pdb
+C:\Users\Admin\Desktop\WebQLHĐ\QLHĐSolotion.Data\obj\Debug\net6.0\QLHĐSolotion.Data.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\WebQLHĐ\QLHĐSolotion.Data\obj\Debug\net6.0\QLHĐSolotion.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\WebQLHĐ\QLHĐSolotion.Data\obj\Debug\net6.0\QLHĐSolotion.Data.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\WebQLHĐ\QLHĐSolotion.Data\obj\Debug\net6.0\QLHĐSolotion.Data.AssemblyInfo.cs
+C:\Users\Admin\Desktop\WebQLHĐ\QLHĐSolotion.Data\obj\Debug\net6.0\QLHĐSolotion.Data.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WebQLHĐ\QLHĐSolotion.Data\obj\Debug\net6.0\QLHĐSolotion.Data.dll
+C:\Users\Admin\Desktop\WebQLHĐ\QLHĐSolotion.Data\obj\Debug\net6.0\refint\QLHĐSolotion.Data.dll
+C:\Users\Admin\Desktop\WebQLHĐ\QLHĐSolotion.Data\obj\Debug\net6.0\QLHĐSolotion.Data.pdb
+C:\Users\Admin\Desktop\WebQLHĐ\QLHĐSolotion.Data\obj\Debug\net6.0\QLHĐSolotion.Data.genruntimeconfig.cache
+C:\Users\Admin\Desktop\WebQLHĐ\QLHĐSolotion.Data\obj\Debug\net6.0\ref\QLHĐSolotion.Data.dll

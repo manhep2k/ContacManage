@@ -1,0 +1,17 @@
+C:\Users\Admin\Desktop\WebQLHĐ\QLHĐSolotion.ViewModel\bin\Debug\net6.0\QLHĐSolotion.ViewModel.deps.json
+C:\Users\Admin\Desktop\WebQLHĐ\QLHĐSolotion.ViewModel\bin\Debug\net6.0\QLHĐSolotion.ViewModel.dll
+C:\Users\Admin\Desktop\WebQLHĐ\QLHĐSolotion.ViewModel\bin\Debug\net6.0\QLHĐSolotion.ViewModel.pdb
+C:\Users\Admin\Desktop\WebQLHĐ\QLHĐSolotion.ViewModel\obj\Debug\net6.0\QLHĐSolotion.ViewModel.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\WebQLHĐ\QLHĐSolotion.ViewModel\obj\Debug\net6.0\QLHĐSolotion.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\WebQLHĐ\QLHĐSolotion.ViewModel\obj\Debug\net6.0\QLHĐSolotion.ViewModel.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\WebQLHĐ\QLHĐSolotion.ViewModel\obj\Debug\net6.0\QLHĐSolotion.ViewModel.AssemblyInfo.cs
+C:\Users\Admin\Desktop\WebQLHĐ\QLHĐSolotion.ViewModel\obj\Debug\net6.0\QLHĐSolotion.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\WebQLHĐ\QLHĐSolotion.ViewModel\obj\Debug\net6.0\QLHĐSolotion.ViewModel.dll
+C:\Users\Admin\Desktop\WebQLHĐ\QLHĐSolotion.ViewModel\obj\Debug\net6.0\refint\QLHĐSolotion.ViewModel.dll
+C:\Users\Admin\Desktop\WebQLHĐ\QLHĐSolotion.ViewModel\obj\Debug\net6.0\QLHĐSolotion.ViewModel.pdb
+C:\Users\Admin\Desktop\WebQLHĐ\QLHĐSolotion.ViewModel\obj\Debug\net6.0\ref\QLHĐSolotion.ViewModel.dll
+C:\Users\Admin\Desktop\WebQLHĐ\QLHĐSolotion.ViewModel\bin\Debug\net6.0\QLHĐSolotion.ViewModel.runtimeconfig.json
+C:\Users\Admin\Desktop\WebQLHĐ\QLHĐSolotion.ViewModel\bin\Debug\net6.0\QLHĐSolotion.Data.dll
+C:\Users\Admin\Desktop\WebQLHĐ\QLHĐSolotion.ViewModel\bin\Debug\net6.0\QLHĐSolotion.Data.pdb
+C:\Users\Admin\Desktop\WebQLHĐ\QLHĐSolotion.ViewModel\obj\Debug\net6.0\QLHĐSolotion.ViewModel.csproj.CopyComplete
+C:\Users\Admin\Desktop\WebQLHĐ\QLHĐSolotion.ViewModel\obj\Debug\net6.0\QLHĐSolotion.ViewModel.genruntimeconfig.cache
